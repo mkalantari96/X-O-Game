@@ -9,4 +9,4 @@ X-O-Game is a simple and fun implementation of the classic tic-tac-toe (also kno
 - Two-player gameplay
 - Detects win conditions and draws
 - Responsive design
-```
+
